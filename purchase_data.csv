@@ -1,0 +1,26 @@
+ID,Age,Gender,Income,Marital Status,Purchase Category,Purchase Amount
+1,25,Female,50000,Single,Electronics,120
+2,40,Male,80000,Married,Furniture,350
+3,32,Female,60000,Single,Clothing,75
+4,28,Male,70000,Married,Groceries,40
+5,50,Female,90000,Divorced,Electronics,200
+6,35,Male,85000,Married,Clothing,150
+7,22,Female,45000,Single,Groceries,60
+8,45,Male,95000,Divorced,Electronics,300
+9,30,Female,60000,Single,Furniture,400
+10,55,Female,120000,Widowed,Jewelry,500
+11,38,Male,75000,Married,Groceries,45
+12,26,Female,55000,Single,Clothing,90
+13,60,Male,100000,Widowed,Electronics,250
+14,29,Female,62000,Married,Furniture,280
+15,40,Female,72000,Divorced,Groceries,70
+16,33,Male,68000,Single,Clothing,120
+17,47,Female,82000,Married,Electronics,180
+18,24,Male,50000,Single,Groceries,35
+19,52,Male,110000,Divorced,Furniture,500
+20,36,Female,78000,Married,Clothing,95
+21,27,Male,64000,Single,Electronics,220
+22,44,Female,83000,Divorced,Groceries,55
+23,31,Male,70000,Married,Furniture,390
+24,48,Female,90000,Widowed,Jewelry,450
+25,23,Male,47000,Single,Clothing,80
