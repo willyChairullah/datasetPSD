@@ -1,0 +1,11 @@
+ID,Age,Gender,Income,Marital Status,Purchase Amount
+1,25,Female,50000,Single,120
+2,40,Male,80000,Married,350
+3,32,Female,60000,Single,75
+4,28,Male,70000,Married,40
+5,50,Female,90000,Divorced,200
+6,35,Male,85000,Married,150
+7,22,Female,45000,Single,60
+8,45,Male,95000,Divorced,300
+9,30,Female,60000,Single,400
+10,55,Female,120000,Single,500
